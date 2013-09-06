@@ -1,0 +1,16 @@
+
+development:
+  adapter: mssql
+  database: jdbc_test
+  host: 192.168.56.101
+  port: 1434 #sql server 2005
+  username: igb_user
+  password: igb_test
+  # for test with mysql
+  #adapter: mysql
+  #username: root
+  #password:
+  #host: localhost
+  #encoding: utf8
+
+
